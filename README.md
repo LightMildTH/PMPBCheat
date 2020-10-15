@@ -1,5 +1,8 @@
+![unknown (2)](https://user-images.githubusercontent.com/40579794/96164418-682ef500-0f45-11eb-8e4f-878e5085b63b.png)
+
 # Phasmophobia | PMPBCheat
-This is a simple mono internal for the game Phasmophobia. I try and use the simplest, most efficient and cleanest methods of doing things that most open source mono internals struggle with. Everything is commented and it should be clear what most things are doing.
+Simple Cheat Modify
+This has been more or less like a learning Project for me. Thank you riqeZ Unknowncheats
 
 # Features
 Toggle GUI [F1 Key]
@@ -10,11 +13,12 @@ Player ESP
 Ghost ESP
 Ouija Board ESP
 Bone ESP
+Ghost Distance
 Sanity Counter
-Basic Data about Ghost
+Ghost Data
 RoomName
 Temperature
-Ghost Distance
 
 # Credits
+Unknowncheats x riqeZ
 https://www.unknowncheats.me/forum/phasmophobia/421217-phasmaphobia-simple-cheat.html
