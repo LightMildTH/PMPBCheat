@@ -2,7 +2,8 @@
 
 # Phasmophobia | PMPBCheat
 Simple Cheat Modify
-This has been more or less like a learning Project for me. Thank you riqeZ Unknowncheats
+This has been more or less like a learning Project for me.
+Thank you riqeZ Unknowncheats
 
 # Features
 - Toggle GUI [F1 Key]
