@@ -155,7 +155,7 @@ namespace PMPBCheat
 				{
 					vector.y = (float)Screen.height - (vector.y + 1f);
 					GUI.color = Color.red;
-					GUI.Label(new Rect(new Vector2(vector.x, vector.y), new Vector2(100f, 100f)), this.ghostInfo.ghostTraits.ghostType.ToString());
+					GUI.Label(new Rect(new Vector2(vector.x, vector.y), new Vector2(100f, 100f)), this.ghostInfo.ghostTraits.ghostType.ToString() + "\n" + distance.ToString());
 				}
 			}
 		}
