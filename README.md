@@ -13,7 +13,7 @@ Thank you riqeZ Unknowncheats.
 - Player ESP
 - Ghost ESP
 - Ouija Board ESP
-->Bone ESP
+- Bone ESP
 - Ghost Distance
 - Sanity Counter
 - Ghost Data
