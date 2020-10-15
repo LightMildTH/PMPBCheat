@@ -21,5 +21,4 @@ Thank you riqeZ Unknowncheats
 - Temperature
 
 # Credits
-Unknowncheats x riqeZ
-https://www.unknowncheats.me/forum/phasmophobia/421217-phasmaphobia-simple-cheat.html
+[Unknowncheats x riqeZ](https://www.unknowncheats.me/forum/phasmophobia/421217-phasmaphobia-simple-cheat.html)
